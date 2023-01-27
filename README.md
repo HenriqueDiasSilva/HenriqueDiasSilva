@@ -31,6 +31,7 @@
 ### Studying in this moment:
 ![C#](https://img.shields.io/badge/-C&nbsp;Sharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-0D1117?style=for-the-badge&logo=unity&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
   
 <div align="center">
