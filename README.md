@@ -8,10 +8,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriqueDiasSilva&show_icons=true&bg_color=00000000&ring_color=20b2aa&text_color=20b2aa&title_color=20b2aa&icon_color=20b2aa&include_all_commits=true" /> 
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenriqueDiasSilva&layout=compact&show_icons=true&bg_color=00000000&ring_color=20b2aa&text_color=20b2aa&title_color=20b2aa&icon_color=20b2aa"/>
 </div>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HenriqueDiasSilva&bg_color=0d1117&color=fcfcfc&line=20b2aa&point=fcfcfc&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<br>
 
 <div align="center"> 
 <a href="https://www.instagram.com/henriquee.ds/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
