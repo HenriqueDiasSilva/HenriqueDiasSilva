@@ -23,11 +23,11 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=purple&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Next](https://img.shields.io/badge/-Next-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Wordpress](https://img.shields.io/badge/-Wordpress-0D1117?style=for-the-badge&logo=wordpress&logoColor=purple&labelColor=0D1117)&nbsp;
 
 
 ### Studying in this moment:
-![Next](https://img.shields.io/badge/-Next-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Wordpress](https://img.shields.io/badge/-Wordpress-0D1117?style=for-the-badge&logo=wordpress&logoColor=purple&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-C&nbsp;Sharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-0D1117?style=for-the-badge&logo=unity&labelColor=0D1117)&nbsp;
 
