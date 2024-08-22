@@ -4,15 +4,15 @@
 <h3 align="center">A passionate Full-Stack developer from Brazil</h3><br>
 
 
-- 🔭 I’m currently working on **Fábrica de Software Ulbra Palmas**
+- 🔭 I’m currently working on **Max Data**
 
-- 🌱 I’m currently learning **React Native, Tailwind, ShadcnUI, Unity, Godot**
+- 🌱 I’m currently learning **React Native, Angular, Unity, Game Maker**
 
-- 👯 I’m looking to collaborate on [Portal Ulbra Palmas](https://ulbra-to.br)
+- 👯 I’m collaborated on [Portal Ulbra Palmas](https://ulbra-to.br)
 
 - 📝 I regularly write articles on [https://ulbra-to.br/jornada/](https://ulbra-to.br/jornada/)
 
-- 💬 Ask me about **Next.JS, Bootstrap, Wordpress, Django**
+- 💬 Ask me about **Next.JS, Bootstrap, Wordpress, Django, Angular, Unity**
 
 - 📫 How to reach me **henriquediasilv1@gmail.com**
 <br>
@@ -65,6 +65,8 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/>
+  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_gamemaker2.svg" alt="gamemaker" width="40" height="40"/>
 </p>
 
 <div align="center">
