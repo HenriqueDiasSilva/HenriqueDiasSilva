@@ -4,15 +4,15 @@
 <h3 align="center">A passionate Full-Stack developer from Brazil</h3><br>
 
 
-- 🔭 I’m currently working on **Max Data**
+- 🔭 I’m currently working on **MJV Technology & Innovation**
 
-- 🌱 I’m currently learning **React Native, Angular, Unity, Game Maker**
+- 🌱 I’m currently learning **React, Next.js, NestJS and English**
 
 - 👯 I’m collaborated on [Portal Ulbra Palmas](https://ulbra-to.br)
 
 - 📝 I regularly write articles on [https://ulbra-to.br/jornada/](https://ulbra-to.br/jornada/)
 
-- 💬 Ask me about **Next.JS, Bootstrap, Wordpress, Django, Angular, Unity**
+- 💬 Ask me about **Next.js, React, Bootstrap, Wordpress, Django, Angular, Unity**
 
 - 📫 How to reach me **henriquediasilv1@gmail.com**
 <br>
