@@ -15,6 +15,8 @@
 - 💬 Ask me about **Next.js, React, Bootstrap, Wordpress, Django, Angular, Unity**
 
 - 📫 How to reach me **henriquediasilv1@gmail.com**
+
+- 👀 My portfolio with some projects and contributions made by me [https://henrique-dias-silva-portfolio.vercel.app/](https://henrique-dias-silva-portfolio.vercel.app/)
 <br>
 
 <div align="center">  
