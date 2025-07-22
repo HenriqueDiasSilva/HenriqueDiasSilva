@@ -1,18 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20b2aa&height=120&section=header"/>
 
 <h1 align="center">Hi 👋, I'm Henrique Dias Silva</h1>
-<h3 align="center">A passionate Full-Stack developer from Brazil</h3><br>
-
+<h3 align="center">Full-Stack Developer with over 3 years of experience.</h3><br>
 
 - 🔭 I’m currently working on **MJV Technology & Innovation**
 
-- 🌱 I’m currently learning **React, Next.js, NestJS and English**
+- 🌱 I'm currently learning about **LLMs, RAG and AI**
 
 - 👯 I’m collaborated on [Portal Ulbra Palmas](https://ulbra-to.br)
 
 - 📝 I regularly write articles on [https://ulbra-to.br/jornada/](https://ulbra-to.br/jornada/)
 
-- 💬 Ask me about **Next.js, React, Bootstrap, Wordpress, Django, Angular, Unity**
+- 💬 Ask me about **Next.js, React, Wordpress, NestJS, Django, Angular**
 
 - 📫 How to reach me **henriquediasilv1@gmail.com**
 
@@ -70,12 +69,5 @@
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/>
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_gamemaker2.svg" alt="gamemaker" width="40" height="40"/>
 </p>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HenriqueDiasSilva}/count.svg" /></p> 
-<br>
-</div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20b2aa&height=120&section=footer"/>
