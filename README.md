@@ -1,73 +1,78 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20b2aa&height=120&section=header"/>
+<!-- ===================== HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b3d3a,100:20b2aa&section=header&text=Henrique%20Dias%20Silva&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20and%20LLMs&descSize=22&descAlignY=58&animation=fadeIn" alt="Henrique Dias Silva" />
 
-<h1 align="center">Hi 👋, I'm Henrique Dias Silva</h1>
-<h3 align="center">Full-Stack Developer with over 3 years of experience.</h3><br>
-
-- 🔭 I’m currently working on **MJV Technology & Innovation**
-
-- 🌱 I'm currently learning about **LLMs, RAG and AI**
-
-- 👯 I’m collaborated on [Portal Ulbra Palmas](https://ulbra-to.br)
-
-- 📝 I regularly write articles on [https://ulbra-to.br/jornada/](https://ulbra-to.br/jornada/)
-
-- 💬 Ask me about **Next.js, React, Wordpress, NestJS, Django, Angular**
-
-- 📫 How to reach me **henriquediasilv1@gmail.com**
-
-- 👀 My portfolio with some projects and contributions made by me [https://henrique-dias-silva-portfolio.vercel.app/](https://henrique-dias-silva-portfolio.vercel.app/)
-<br>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriqueDiasSilva&show_icons=true&bg_color=00000000&ring_color=20b2aa&text_color=20b2aa&title_color=20b2aa&icon_color=20b2aa&include_all_commits=true" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenriqueDiasSilva&layout=compact&show_icons=true&bg_color=00000000&ring_color=20b2aa&text_color=20b2aa&title_color=20b2aa&icon_color=20b2aa"/>
-</div>
-<br>
-
-<div align="center"> 
-<a href="https://www.instagram.com/henriquee.ds/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "mailto:henriquediasilv1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/henrique-dias-silva-302978239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
- 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/>
-  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_gamemaker2.svg" alt="gamemaker" width="40" height="40"/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=20B2AA&center=true&vCenter=true&width=480&lines=Full-Stack+Developer+%40+MJV;Next.js+%E2%80%A2+NestJS+%E2%80%A2+Django+%E2%80%A2+Angular;Currently+exploring+LLMs+and+RAG;Building+things+for+the+web+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20b2aa&height=120&section=footer"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/henrique-dias-silva-302978239/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://henrique-dias-silva-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:henriquediasilv1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/henriquee.ds/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<br />
+
+<!-- ===================== ABOUT ===================== -->
+## 🧑‍💻 About me
+
+```ts
+const henrique = {
+  role: "Full-Stack Developer",
+  experience: "3+ years",
+  company: "MJV Technology & Innovation",
+  location: "Palmas, TO - Brazil",
+  learning: ["LLMs", "RAG", "AI"],
+  stack: ["Next.js", "React", "NestJS",
+          "Django", "Angular", "WordPress"],
+};
+```
+
+- 👯 Collaborated on the [**Portal Ulbra Palmas**](https://ulbra-to.br)
+- 📝 I regularly write articles on [**Jornada Ulbra**](https://ulbra-to.br/jornada/)
+- 👀 Projects and contributions in [**my portfolio**](https://henrique-dias-silva-portfolio.vercel.app/)
+
+<br />
+
+<!-- ===================== STACK ===================== -->
+## 🛠️ Tech Stack
+
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,java,cs,php,html,css,sass" alt="Languages" /></a>
+</p>
+
+<p align="center"><b>Frontend &amp; Mobile</b></p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,flutter,wordpress" alt="Frontend &amp; Mobile" /></a>
+</p>
+
+<p align="center"><b>Backend</b></p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,spring,graphql" alt="Backend" /></a>
+</p>
+
+<p align="center"><b>Databases</b></p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase" alt="Databases" /></a>
+</p>
+
+<p align="center"><b>DevOps &amp; Tools</b></p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,nginx,git,github,postman,selenium,figma,unity" alt="DevOps &amp; Tools" /></a>
+</p>
+
+<br />
+
+<!-- ===================== ACTIVITY ===================== -->
+## 📈 Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HenriqueDiasSilva&hide_border=true&background=0D1117&ring=20B2AA&fire=20B2AA&currStreakLabel=20B2AA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="GitHub streak" />
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:20b2aa,100:0b3d3a&section=footer" alt="" />
